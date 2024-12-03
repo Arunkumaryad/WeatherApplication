@@ -99,7 +99,7 @@ fetch(
 To set up and run the Weather Dashboard locally with an API key, follow these steps:
 
 ```bash
-git clone https://github.com/AbdelrahmanAlsayed/Weather-Application
+git clone https://github.com/Arunkumaryad/WeatherApplication.git
 cd your-project-directory
 echo "REACT_APP_OPENWEATHERMAP_API_KEY=your-api-key-here" > .env
 npm install && npm run dev
