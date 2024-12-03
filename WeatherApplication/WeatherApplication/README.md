@@ -10,8 +10,6 @@
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
 - [Installation](#installation)
-- [License](#license)
-- [Author](#author)
 
 ### Overview
 
@@ -30,7 +28,7 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ### Links
 
-- Live Site URL : [Weather Application](https://weatheritoo.vercel.app/)
+- Live Site URL : [Weather Application](https://arunyadavweather.netlify.app/)
 
 ### Features
 
