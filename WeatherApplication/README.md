@@ -4,15 +4,11 @@
 
 - [Overview](#overview)
 - [Built with](#built-with)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Features](#features)
-- [Lighthouse Report](#Lighthouse-Report)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
 - [Installation](#installation)
-- [License](#license)
-- [Author](#author)
 
 ### Overview
 
@@ -28,9 +24,6 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 - ESLint and Prettier for code linting and formatting
 - Designed also by me
 
-### Screenshot
-
-![Weather Application](Screenshot.png)
 
 ### Links
 
@@ -117,11 +110,3 @@ directory, and replace your-api-key-here with your OpenWeatherMap API key.
 
 ```
 
-## License
-
-This project is open-source and free for non-commercial use. You are allowed to view, modify, and distribute the code for non-commercial purposes. For commercial use or any other inquiries, please contact me.
-No specific license file is provided. If you have questions about using this project, feel free to reach out to me at dev.abdelrahman7@gmail.com
-
-## Author
-
-- <a href="https://www.linkedin.com/in/abdelrahmmaan/" target="_blank">LinkedIn</a>
