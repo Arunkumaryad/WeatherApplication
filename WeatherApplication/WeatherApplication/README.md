@@ -6,7 +6,6 @@
 - [Built with](#built-with)
 - [Links](#links)
 - [Features](#features)
-- [Lighthouse Report](#Lighthouse-Report)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
 - [Installation](#installation)
