@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
 - [Built with](#built-with)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Features](#features)
 - [Lighthouse Report](#Lighthouse-Report)
@@ -28,9 +27,6 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 - ESLint and Prettier for code linting and formatting
 - Designed also by me
 
-### Screenshot
-
-![Weather Application](Screenshot.png)
 
 ### Links
 
